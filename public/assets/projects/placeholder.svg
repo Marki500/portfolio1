@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 720" role="img" aria-labelledby="title desc">
+  <title id="title">Project screenshot placeholder</title>
+  <desc id="desc">Placeholder instructing to replace with real project screenshot.</desc>
+  <defs>
+    <linearGradient id="gradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#111827" />
+      <stop offset="50%" stop-color="#1f2937" />
+      <stop offset="100%" stop-color="#020617" />
+    </linearGradient>
+  </defs>
+  <rect width="960" height="720" fill="url(#gradient)" />
+  <g font-family="'Plus Jakarta Sans', sans-serif" fill="#f8fafc" text-anchor="middle">
+    <text x="50%" y="45%" font-size="60" font-weight="700">TODO Screenshot</text>
+    <text x="50%" y="55%" font-size="32" fill="#a855f7">Reemplazar con imagen real en /public/assets/projects/&lt;slug&gt;.jpg</text>
+    <text x="50%" y="63%" font-size="26" fill="#67e8f9">Mantén proporción 4:3 y efecto glass.</text>
+  </g>
+  <rect x="120" y="120" width="720" height="480" rx="48" ry="48" fill="none" stroke="#a855f7" stroke-width="6" stroke-dasharray="20 16" opacity="0.65" />
+</svg>

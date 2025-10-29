@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Marc Iglesias portfolio Open Graph placeholder</title>
+  <desc id="desc">Placeholder banner prompting replacement with final Open Graph image.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#020617" />
+      <stop offset="50%" stop-color="#1e1b4b" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <g fill="#a855f7" font-family="'Plus Jakarta Sans', sans-serif">
+    <text x="80" y="200" font-size="72" font-weight="700">Marc Iglesias — Full-Stack Developer</text>
+    <text x="80" y="280" font-size="36" fill="#67e8f9">TODO reemplazar por imagen OG real en /public/assets/og-preview.jpg</text>
+    <text x="80" y="360" font-size="28" fill="#c084fc">Incluye retrato, branding y proyectos destacados.</text>
+  </g>
+  <rect x="80" y="400" width="1040" height="160" rx="24" ry="24" fill="#111827" opacity="0.65" stroke="#a855f7" stroke-dasharray="16 12" />
+  <text x="100" y="492" font-size="32" fill="#f8fafc" font-family="'Plus Jakarta Sans', sans-serif">
+    Reserva espacio para CTA y logotipo siguiendo estilo cósmico/tecnológico.
+  </text>
+</svg>
